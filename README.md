@@ -1,6 +1,6 @@
 # houses_prices
 
-This project aims to predict houses prices using machine learning techniques. It includes implementations in both Python and R.
+This project aims to predict houses prices using machine learning techniques using Python language.
 
 ## Project structure
 

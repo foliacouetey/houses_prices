@@ -1,8 +1,5 @@
 # Python packages repository
 PYTHON/.venv
 
-# Python packages repository
-R/renv
-
 # Test set predictions
 PYTHON/test/test_pred.csv
